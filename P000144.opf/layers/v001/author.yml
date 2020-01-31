@@ -1,0 +1,10 @@
+id: 12a6027355bf49cfa0de4b2c5f345631
+annotation_type: author
+revision: '00001'
+annotations:
+- span:
+    start: 26
+    end: 69
+- span:
+    start: 71
+    end: 116
