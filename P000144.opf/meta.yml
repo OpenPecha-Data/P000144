@@ -1,9 +1,10 @@
-ebook_metadata:
+id: P000144
+initial_creation_type: ebook
+source_metadata:
   title: བློ་གྲོས་མཐའ་ཡས་པའི་མཛོད།
   authors:
   - མཛད་པ་པོ། འཇམ་མགོན་ཀོང་སྤྲུལ་ཡོན་ཏན་རྒྱ་མཚོ།
   - མཛད་པ་པོ། འཇུ་མི་ཕམ་འཇམ་དཔལ་དགྱེས་པའི་རྡོ་རྗེ།
-  sku: RDI-SS-06
   layers:
   - book_title
   - author
@@ -11,6 +12,7 @@ ebook_metadata:
   - tsawa
   - quotation
   - sabche
+  id: RDI-SS-06
 web_metadata:
   title:
     en: A Selection of Texts on the Meaning of the Final Turning of the Wheel
