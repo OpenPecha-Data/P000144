@@ -2,31 +2,31 @@ id: 68ff056a26234120b737223cc38efa24
 annotation_type: Chapter
 revision: '00001'
 annotations:
-- id: 5beb1a1092f64154a43973e45f0c5c1d
-  span:
-    start: 4269
-    end: 4306
-- id: ec39efd7587c4409b36f83ef35e69b71
-  span:
-    start: 9742
-    end: 9832
-- id: df144bad26d540b8945143064eac3c19
-  span:
-    start: 81568
-    end: 81612
-- id: 14d52e330ac94d3d9db1c2a75475a522
-  span:
-    start: 88318
-    end: 88386
-- id: 344b4434406446a19fca49ba395ef1a9
-  span:
-    start: 154175
-    end: 154241
-- id: b10df5558bc548458b8ca2c7a0f6bc00
-  span:
-    start: 182274
-    end: 182323
-- id: ab4617c5e94649b7a3b31498792bb8b4
-  span:
-    start: 227501
-    end: 227530
+  5beb1a1092f64154a43973e45f0c5c1d:
+    span:
+      start: 4269
+      end: 4306
+  ec39efd7587c4409b36f83ef35e69b71:
+    span:
+      start: 9742
+      end: 9832
+  df144bad26d540b8945143064eac3c19:
+    span:
+      start: 81568
+      end: 81612
+  14d52e330ac94d3d9db1c2a75475a522:
+    span:
+      start: 88318
+      end: 88386
+  344b4434406446a19fca49ba395ef1a9:
+    span:
+      start: 154175
+      end: 154241
+  b10df5558bc548458b8ca2c7a0f6bc00:
+    span:
+      start: 182274
+      end: 182323
+  ab4617c5e94649b7a3b31498792bb8b4:
+    span:
+      start: 227501
+      end: 227530
